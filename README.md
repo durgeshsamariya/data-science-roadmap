@@ -92,6 +92,24 @@ This repository intendend to provide a complete **Data Science** learning path t
 # Python Programming
 - Introduction to Python [Video 1](https://www.youtube.com/watch?v=_uQrJ0TkZlc&t=86s) **or** [Video 2](https://www.youtube.com/watch?v=rfscVS0vtbw)
 
+# Numpy
+
+- :tv: [Complete Python NumPy Tutorial](https://www.youtube.com/watch?v=GB9ByFAIAH4&t=210s)
+- [The Ultimate Beginner’s Guide to NumPy](https://towardsdatascience.com/the-ultimate-beginners-guide-to-numpy-f5a2f99aef54)
+- [Python Numpy Tutorial (with Jupyter and Colab)](https://cs231n.github.io/python-numpy-tutorial/)
+- [The Ultimate NumPy Tutorial for Data Science Beginners](https://www.analyticsvidhya.com/blog/2020/04/the-ultimate-numpy-tutorial-for-data-science-beginners/)
+- [NumPy Tutorial: Your First Steps Into Data Science in Python](https://realpython.com/numpy-tutorial/)
+- [101 NumPy Exercises for Data Analysis (Python)](https://www.machinelearningplus.com/python/101-numpy-exercises-python/)
+- [100 numpy exercises](https://github.com/rougier/numpy-100)
+
+# Pandas
+- [Learn Pandas Tutorials | Kaggle](https://www.kaggle.com/learn/pandas)
+- :tv: [Python Pandas Tutorial](https://www.youtube.com/watch?v=jgrE0IlsZ0M)
+- :tv:[Complete Python Pandas Data Science Tutorial](https://www.youtube.com/watch?v=vmEHCJofslg)
+- [101 Pandas Exercises for Data Analysis](https://www.machinelearningplus.com/python/101-pandas-exercises-python/)
+- [pandas_exercises](https://github.com/guipsamora/pandas_exercises)
+
+
 ## FAQ
 1. Which programming languages should I use?
 Python and R. However, I added materials on Python.
