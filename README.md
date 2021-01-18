@@ -28,6 +28,7 @@ I used different emojis for different resources.
 - [Python Programming](#python-programming)
 - [Numpy](#numpy)
 - [Pandas](#pandas)
+- [To-Do](#to-do)
 - [Contribution guideline](#contribution-guideline)
 
 # Statistics & Probability
@@ -116,7 +117,6 @@ I used different emojis for different resources.
 - :tv: [Complete Python Pandas Data Science Tutorial](https://www.youtube.com/watch?v=vmEHCJofslg)
 - :newspaper: [101 Pandas Exercises for Data Analysis](https://www.machinelearningplus.com/python/101-pandas-exercises-python/)
 - :file_folder: [pandas_exercises](https://github.com/guipsamora/pandas_exercises)
-
 
 ## To-Do
 - [ ] Matplotlib
