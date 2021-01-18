@@ -26,6 +26,8 @@ I used different emojis for different resources.
     - [Eigenvalues and Eigenvectors](#eigenvalues-and-eigenvectors)
     - [Integrals](#integrals)
 - [Python Programming](#python-programming)
+- [Numpy](#numpy)
+- [Pandas](#pandas)
 - [Contribution guideline](#contribution-guideline)
 
 # Statistics & Probability
@@ -115,6 +117,15 @@ I used different emojis for different resources.
 - :newspaper: [101 Pandas Exercises for Data Analysis](https://www.machinelearningplus.com/python/101-pandas-exercises-python/)
 - :file_folder: [pandas_exercises](https://github.com/guipsamora/pandas_exercises)
 
+
+## To-Do
+- [ ] Matplotlib
+- [ ] Seaborn
+- [ ] Exploratory Data Analysis (EDA)
+- [ ] SQL
+- [ ] Machine Learning Concepts
+- [ ] Projects
+- [ ] Translation in different language
 
 ## FAQ
 1. Which programming languages should I use?
