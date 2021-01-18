@@ -2,6 +2,9 @@
 
 Self taught **Data Science** curriculum.
 
+### About
+This repository intendend to provide a complete **Data Science** learning path to those who intersted in learning Data Science. In this repository, I gave preference to free resource. However, some valuable paid courses also included.
+
 ## Content
 - [Statistics & Probability](#statistics-&-probability)
     - [Descriptive Statistics](#descriptive-statistics)
