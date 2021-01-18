@@ -109,7 +109,7 @@ I used different emojis for different resources.
 - :file_folder: [100 numpy exercises](https://github.com/rougier/numpy-100)
 
 # Pandas
-- [Learn Pandas Tutorials | Kaggle](https://www.kaggle.com/learn/pandas)
+- :newspaper: [Learn Pandas Tutorials | Kaggle](https://www.kaggle.com/learn/pandas)
 - :tv: [Python Pandas Tutorial](https://www.youtube.com/watch?v=jgrE0IlsZ0M)
 - :tv: [Complete Python Pandas Data Science Tutorial](https://www.youtube.com/watch?v=vmEHCJofslg)
 - :newspaper: [101 Pandas Exercises for Data Analysis](https://www.machinelearningplus.com/python/101-pandas-exercises-python/)
