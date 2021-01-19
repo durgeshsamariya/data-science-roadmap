@@ -1,17 +1,17 @@
 # Data Science Roadmap
 
-Self taught **Data Science** curriculum.
+Self learning **Data Science** curriculum.
 
 ### About
 This repository intendend to provide a complete **Data Science** learning path to those who intersted in learning Data Science. In this repository, I gave preference to free resource. However, some valuable paid courses also included.
 
-I used different emojis for different resources.
-:tv: represents videos.
-:dollar: represents paid content.
-:newspaper: represents online article.
-:file_folder: represents GitHub repo.
+### Explanation
+- :tv: Video content.
+- :dollar: Paid content.
+- :newspaper: Online article.
+- :file_folder: GitHub repo.
 
-## Content
+### Content
 - [Statistics & Probability](#statistics-&-probability)
     - [Descriptive Statistics](#descriptive-statistics)
     - [Probability](#probability)
