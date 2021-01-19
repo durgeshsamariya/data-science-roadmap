@@ -99,19 +99,108 @@ I used different emojis for different resources.
 - :tv: [Definite Integrals of Common Functions](https://www.khanacademy.org/math/integral-calculus/ic-integration/ic-common-definite-integrals/v/reverse-power-rule-for-definite-integrals)
 
 # Python Programming
+- :newspaper: [Learn Python Tutorial](https://www.learnpython.org)
+### Basics
+- :newspaper: [Hello, World!](https://www.learnpython.org/en/Hello%2C_World%21)
+- :newspaper: [Variables and Types](https://www.learnpython.org/en/Variables_and_Types)
+- :newspaper: [Lists](https://www.learnpython.org/en/Lists)
+- :newspaper: [Basic Operators](https://www.learnpython.org/en/Basic_Operators)
+- :newspaper: [String Formatting](https://www.learnpython.org/en/String_Formatting)
+- :newspaper: [Basic String Operations](https://www.learnpython.org/en/Basic_String_Operations)
+- :newspaper: [Conditions](https://www.learnpython.org/en/Conditions)
+- :newspaper: [Loops](https://www.learnpython.org/en/Loops)
+- :newspaper: [Functions](https://www.learnpython.org/en/Functions)
+- :newspaper: [Classes and Objects](https://www.learnpython.org/en/Classes_and_Objects)
+- :newspaper: [Dictionaries](https://www.learnpython.org/en/Dictionaries)
+- :newspaper: [Modules and Packages](https://www.learnpython.org/en/Modules_and_Packages)
+
+### Advanced
+- :newspaper: [Generators](https://www.learnpython.org/en/Generators)
+- :newspaper: [List Comprehensions](https://www.learnpython.org/en/List_Comprehensions)
+- :newspaper: [Multiple Function Arguments](https://www.learnpython.org/en/Multiple_Function_Arguments)
+- :newspaper: [Regular Expressions](https://www.learnpython.org/en/Regular_Expressions)
+- :newspaper: [Exception Handling](https://www.learnpython.org/en/Exception_Handling)
+- :newspaper: [Sets](https://www.learnpython.org/en/Sets)
+- :newspaper: [Serialization](https://www.learnpython.org/en/Serialization)
+- :newspaper: [Partial functions](https://www.learnpython.org/en/Partial_functions)
+- :newspaper: [Code Introspection](https://www.learnpython.org/en/Code_Introspection)
+- :newspaper: [Closures](https://www.learnpython.org/en/Closures)
+- :newspaper: [Decorators](https://www.learnpython.org/en/Decorators)
+- :newspaper: [Map, Filter, Reduce](https://www.learnpython.org/en/Map%2C_Filter%2C_Reduce)
+
+### More Resources
+- :newspaper: [Python 3 Tutorial](https://www.tutorialspoint.com/python3/)
 - :tv: Introduction to Python [Video 1](https://www.youtube.com/watch?v=_uQrJ0TkZlc&t=86s) **or** [Video 2](https://www.youtube.com/watch?v=rfscVS0vtbw)
 
 # Numpy
 
-- :tv: [Complete Python NumPy Tutorial](https://www.youtube.com/watch?v=GB9ByFAIAH4&t=210s)
+### Basics
+- :newspaper: [An example](https://numpy.org/doc/stable/user/quickstart.html#an-example)
+- :newspaper: [Array Creation](https://numpy.org/doc/stable/user/quickstart.html#array-creation)
+- :newspaper: [Printing Arrays](https://numpy.org/doc/stable/user/quickstart.html#printing-arrays)
+- :newspaper: [Basic Operations](https://numpy.org/doc/stable/user/quickstart.html#basic-operations)
+- :newspaper: [Universal Functions](https://numpy.org/doc/stable/user/quickstart.html#universal-functions)
+- :newspaper: [Indexing, Slicing and Iterating](https://numpy.org/doc/stable/user/quickstart.html#indexing-slicing-and-iterating)
+
+### Shape Manipulation
+- :newspaper: [Changing the shape of an array](https://numpy.org/doc/stable/user/quickstart.html#changing-the-shape-of-an-array)
+- :newspaper: [Stacking together different arrays](https://numpy.org/doc/stable/user/quickstart.html#stacking-together-different-arrays)
+- :newspaper: [Splitting one array into several smaller ones](https://numpy.org/doc/stable/user/quickstart.html#splitting-one-array-into-several-smaller-ones)
+
+### Copies and Views
+- :newspaper: [No Copy at All](https://numpy.org/doc/stable/user/quickstart.html#no-copy-at-all)
+- :newspaper: [View or Shallow Copy](https://numpy.org/doc/stable/user/quickstart.html#view-or-shallow-copy)
+- :newspaper: [Deep Copy](https://numpy.org/doc/stable/user/quickstart.html#deep-copy)
+- :newspaper: [Functions and Methods Overview](https://numpy.org/doc/stable/user/quickstart.html#functions-and-methods-overview)
+
+### Less Basic
+- :newspaper: [Broadcasting rules](https://numpy.org/doc/stable/user/quickstart.html#broadcasting-rules)
+
+### Advanced indexing and index tricks
+- :newspaper: [Indexing with Arrays of Indices](https://numpy.org/doc/stable/user/quickstart.html#indexing-with-arrays-of-indices)
+- :newspaper: [Indexing with Boolean Arrays](https://numpy.org/doc/stable/user/quickstart.html#indexing-with-boolean-arrays)
+- :newspaper: [The ix_() function](https://numpy.org/doc/stable/user/quickstart.html#the-ix-function)
+- :newspaper: [Indexing with strings](https://numpy.org/doc/stable/user/quickstart.html#indexing-with-strings)
+
+### Linear Algebra
+- :newspaper: [Simple Array Operations](https://numpy.org/doc/stable/user/quickstart.html#simple-array-operations)
+
+### More Resources
+- :newspaper: [NumPy: the absolute basics for beginners](https://numpy.org/doc/stable/user/absolute_beginners.html)
+- :newspaper: [NumPy Tutorial](https://www.tutorialspoint.com/numpy/)
 - :newspaper: [The Ultimate Beginner’s Guide to NumPy](https://towardsdatascience.com/the-ultimate-beginners-guide-to-numpy-f5a2f99aef54)
-- :file_folder: [Python Numpy Tutorial (with Jupyter and Colab)](https://cs231n.github.io/python-numpy-tutorial/)
 - :newspaper: [The Ultimate NumPy Tutorial for Data Science Beginners](https://www.analyticsvidhya.com/blog/2020/04/the-ultimate-numpy-tutorial-for-data-science-beginners/)
 - :newspaper: [NumPy Tutorial: Your First Steps Into Data Science in Python](https://realpython.com/numpy-tutorial/)
 - :newspaper: [101 NumPy Exercises for Data Analysis (Python)](https://www.machinelearningplus.com/python/101-numpy-exercises-python/)
+- :tv: [Complete Python NumPy Tutorial](https://www.youtube.com/watch?v=GB9ByFAIAH4&t=210s)
+- :file_folder: [Python Numpy Tutorial (with Jupyter and Colab)](https://cs231n.github.io/python-numpy-tutorial/)
 - :file_folder: [100 numpy exercises](https://github.com/rougier/numpy-100)
 
 # Pandas
+- :newspaper: [10 minutes to pandas](https://pandas.pydata.org/pandas-docs/stable/user_guide/10min.html)
+- :newspaper: [Intro to data structures](https://pandas.pydata.org/pandas-docs/stable/user_guide/dsintro.html)
+- :newspaper: [Essential basic functionality](https://pandas.pydata.org/pandas-docs/stable/user_guide/basics.html)
+- :newspaper: [IO tools](https://pandas.pydata.org/pandas-docs/stable/user_guide/io.html)
+- :newspaper: [Indexing and selecting data](https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html)
+- :newspaper: [MultiIndex / advanced indexing](https://pandas.pydata.org/pandas-docs/stable/user_guide/advanced.html)
+- :newspaper: [Merge, join, concatenate and compare](https://pandas.pydata.org/pandas-docs/stable/user_guide/merging.html)
+- :newspaper: [Reshaping and pivot tables](https://pandas.pydata.org/pandas-docs/stable/user_guide/reshaping.html)
+- :newspaper: [Working with text data](https://pandas.pydata.org/pandas-docs/stable/user_guide/text.html)
+- :newspaper: [Duplicate Labels](https://pandas.pydata.org/pandas-docs/stable/user_guide/duplicates.html)
+- :newspaper: [Categorical data](https://pandas.pydata.org/pandas-docs/stable/user_guide/categorical.html)
+- :newspaper: [Nullable integer data type](https://pandas.pydata.org/pandas-docs/stable/user_guide/integer_na.html)
+- :newspaper: [Nullable Boolean data type](https://pandas.pydata.org/pandas-docs/stable/user_guide/boolean.html)
+- :newspaper: [Visualization using pandas](https://pandas.pydata.org/pandas-docs/stable/user_guide/visualization.html)
+- :newspaper: [Computational tools](https://pandas.pydata.org/pandas-docs/stable/user_guide/computation.html)
+- :newspaper: [Group by: split-apply-combine](https://pandas.pydata.org/pandas-docs/stable/user_guide/groupby.html)
+- :newspaper: [Windowing Operations](https://pandas.pydata.org/pandas-docs/stable/user_guide/window.html)
+- :newspaper: [Time series / date functionality](https://pandas.pydata.org/pandas-docs/stable/user_guide/timeseries.html)
+- :newspaper: [Time deltas](https://pandas.pydata.org/pandas-docs/stable/user_guide/timedeltas.html)
+- :newspaper: [Styling](https://pandas.pydata.org/pandas-docs/stable/user_guide/style.html)
+- :newspaper: [Options and settings](https://pandas.pydata.org/pandas-docs/stable/user_guide/options.html)
+- :newspaper: [Cookbook](https://pandas.pydata.org/pandas-docs/stable/user_guide/cookbook.html)
+
+### More Resources
 - :newspaper: [Learn Pandas Tutorials | Kaggle](https://www.kaggle.com/learn/pandas)
 - :tv: [Python Pandas Tutorial](https://www.youtube.com/watch?v=jgrE0IlsZ0M)
 - :tv: [Complete Python Pandas Data Science Tutorial](https://www.youtube.com/watch?v=vmEHCJofslg)
@@ -126,6 +215,7 @@ I used different emojis for different resources.
 - [ ] Machine Learning Concepts
 - [ ] Projects
 - [ ] Translation in different language
+- [ ] Cheatsheets
 
 ## FAQ
 1. Which programming languages should I use?
