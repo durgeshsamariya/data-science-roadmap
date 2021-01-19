@@ -207,8 +207,25 @@ This repository intendend to provide a complete **Data Science** learning path t
 - :newspaper: [101 Pandas Exercises for Data Analysis](https://www.machinelearningplus.com/python/101-pandas-exercises-python/)
 - :file_folder: [pandas_exercises](https://github.com/guipsamora/pandas_exercises)
 
+# Matplotlib
+
+### Matplotlib Official Tutorials
+- :newspaper: [Sample plots in Matplotlib](https://matplotlib.org/2.2.2/tutorials/introductory/sample_plots.html#sphx-glr-tutorials-introductory-sample-plots-py)
+- :newspaper: [Customizing Matplotlib with style sheets and rcParams](https://matplotlib.org/2.2.2/tutorials/introductory/customizing.html#sphx-glr-tutorials-introductory-customizing-py)
+- :newspaper: [Styling with cycler](https://matplotlib.org/2.2.2/tutorials/intermediate/color_cycle.html#sphx-glr-tutorials-intermediate-color-cycle-py)
+- :newspaper: [Legend guide](https://matplotlib.org/2.2.2/tutorials/intermediate/legend_guide.html#sphx-glr-tutorials-intermediate-legend-guide-py)
+- :newspaper: [Specifying Colors](https://matplotlib.org/2.2.2/tutorials/colors/colors.html#sphx-glr-tutorials-colors-colors-py)
+- :newspaper: [Annotations](https://matplotlib.org/2.2.2/tutorials/text/annotations.html#id23)
+
+### Other Resources
+- :newspaper: [Introduction to Matplotlib — Data Visualization in Python](https://heartbeat.fritz.ai/introduction-to-matplotlib-data-visualization-in-python-d9143287ae39)
+- :newspaper: [Python Plotting With Matplotlib (Guide)](https://realpython.com/python-matplotlib-guide/)
+- :newspaper: [Matplotlib Tutorial](https://www.tutorialspoint.com/matplotlib/index.htm)
+- :newspaper: [Python Graph Gallery](https://python-graph-gallery.com/matplotlib/)
+- :tv: [Python Matplotlib Tutorial | Edureka](https://www.youtube.com/watch?v=yZTBMMdPOww)
+- :tv: [Matplotlib tutorial | Simplilearn](https://www.youtube.com/watch?v=OKJyGzgWP6c)
+
 ## To-Do
-- [ ] Matplotlib
 - [ ] Seaborn
 - [ ] Exploratory Data Analysis (EDA)
 - [ ] SQL
