@@ -230,6 +230,7 @@ This repository intendend to provide a complete **Data Science** learning path t
 - [ ] Exploratory Data Analysis (EDA)
 - [ ] SQL
 - [ ] Machine Learning Concepts
+- [ ] Scikit-Learn
 - [ ] Projects
 - [ ] Translation in different language
 - [ ] Cheatsheets
