@@ -1,0 +1,175 @@
+### Machine Learning Projects for Beginners
+
+- Stock Price Prediction
+- Data Science Project on President Heights
+- Data Science Project on Birth Rate Analysis
+- Data Science Project on Time Series
+- Data Science Project on Area and Population
+- A Complete Machine Learning Project Walkthrough
+- Text Summarization
+
+### Advanced Machine Learning Projects
+
+- House Price Prediction
+- Real-Time Face Mask Detection
+- Named Entity Recognition
+- Number Plate Detection
+- IPL Analysis with Python
+- Gold Price Prediction
+- Object Detection
+- Highest-Paid Athletes Analysis
+- Text Generation
+- Spelling Correction with Python
+- Income Classification
+- Language Translation Model
+- Resume Screening
+- Sign Language Classification
+- Online Shopping Intention Analysis
+- Network Graph Analysis
+- Keyword Extraction
+- Amazon Best Selling Books Analysis
+- Covid-19 Cases Prediction for Next 30 Days
+- Gender Classification
+- Flower Recognition
+- Air Quality Index Analysis
+- Pneumonia Detection
+- Employee Attrition Prediction
+- Hand Gesture Recognition
+- Face mask Detection
+- Market Basket Analysis using Apriori Algorithm
+- Breast Cancer Detection
+- Earthquake Prediction Model
+- Outlier Detection
+- Heart Disease Prediction
+- Plastic Users Analysis
+- Chatbot with Machine Learning
+- Next Word Prediction Model
+- Age and Gender Detection with Python
+- Autocorrect Keyboard with Python and Machine Learning.
+- Machine Learning in 5 lines of code.
+- Deepfake Detection with Machine Learning.
+- Predict US Elections with Python.
+- Fake Currency Detection with Machine Learning.
+- Predict Tinder Matches with Machine Learning.
+- Image Segmentation
+- Title Generator with Python.
+- Pencil Sketch with Python.
+- OpenAI Gym in Machine Learning
+- Covid 19 Analysis.
+- Analyze ILP Matches.
+- Barcode and QR code Reader with Python
+- Extract Text From PDF with Python.
+- Predict IPL Winner 2020.
+- Predict Car Prices.
+- Analyze Call Records.
+- Create an API with Python.
+- Send Custom Emails with Python.
+- Colour Recognition with Machine Learning.
+- Create a 3D Video Animation.
+- Graph Algorithms in Machine Learning.
+- Image Features Extraction.
+- Rainfall Prediction with Machine Learning.
+- Classify Nationalities with Machine Learning.
+- Fraud Detection with Machine Learning.
+- Topic Modeling with Python
+- Named Entity Recognition
+- WhatsApp Group Chat Analysis
+- Translate Languages Using Python
+- Network Security Analysis
+- Bar Chart Race with Python
+- Keyword Research with Python
+- Face Detection with Python
+- Emotion Detection Model
+- Telegram Bot with Python
+- Handwriting Recognition
+- Visualize a Solar System with Python.
+- Hate Speech Detection Model
+- Build Instagram Filters with Python.
+- Contact Tracing with Machine Learning
+- Deploy a Chatbot with Python into a Web Application
+- Summarize Text with Machine Learning
+- Language Classification with Machine Learning.
+- OTP Verification GUI with Python
+- Create an Audiobook with Python
+- Titanic Survival Analysis
+- Image Recognition with PyTorch
+- Gender Classification Model
+- Daily Births Forecasting
+- Binary Search Algorithm
+- Galaxy Classification with Machine Learning
+- Time Series with LSTM Model
+- Image Classification with TensorFlow
+- Predict Weather with Machine Learning
+- Create a Package with Python
+- Computer Vision with Python
+- Diamonds Analysis with Python
+- Text Classification with TensorFlow
+- Image Segmentation with Python
+- Ridge and Lasso Regression
+- Predict Fuel Efficiency
+- ABC Analysis with Python
+- Lung Segmentation with Machine Learning
+- RFM Analysis with Python
+- Build Neural Network with Python Code
+- Genetic Algorithm with Python
+- Predict Migration with Machine Learning
+- Analyze Healthcare Data
+- NLP For Other Languages
+- Data Science Project on Text and Annotations
+- Data Science Project on — Handwritten Digits
+- Data Science Project on- Support Vector Machines
+- Data Science Project — Stock Price Prediction with Machine Learning
+- Data Science Project on — Classification of Text
+- Data Science Project on-Extracting HOG Features
+- Data Science Project on — Amazon Products Reviews Sentiment Analysis with Machine Learning
+- Data Science Project — Email spam Detection with Machine Learning
+- Data Science Project — Heart Disease Prediction with Machine Learning
+- Data Science Project — Movie Recommendation System
+- Data Science Project — Student Performance Analysis with Machine Learning
+- Data Science Project on FIFA Analysis with python
+- Data science project — Fake News Classification
+- Data Science Project — DNA Sequencing with Machine Learning
+- Data Science Project — Book Recommendation System with Machine Learning
+- Data Science Project — Bitcoin Price Prediction with Machine Learning
+- Machine Learning Project — Artificial Neural Networks
+- Algorithmic Trading Strategy with Machine Learning and Python
+- Movie Reviews Sentiment Analysis -Binary Classification with Machine Learning
+- Data Science Project — Supermarket Sales Analysis
+- Data Science Project — GDP Analysis
+- Data Science Project — Predict Customer Churn with Python and Machine Learning
+- Data Science Project — San Francisco Crime Analysis
+- Machine Learning Project — Human Activity Recognition using Smartphone Data
+- Credit Card Fraud Detection with Machine Learning
+- Weather Forecasting with Machine Learning
+- SMS Spam Detection with Machine Learning
+- Covid-19 Detection with Machine Learning and AI
+- Customer Segmentation with Machine Learning
+- Employee Turnover Prediction with Machine Learning
+- Predict Diabetes with Machine Learning
+- Image Classification with PyTorch
+- Time Series Forecasting with ARIMA Model
+- Natural Language Processing on WhatsApp Chats
+- Fake News Detection Model
+- Image Classification with Artificial Neural Networks
+- Binary Classification Model
+- Data Augmentation with Deep Learning
+- Next Word Prediction Model.
+- Image Segmentation
+- XGBoost Algorithm in Machine Learning
+- Face Landmarks Detection
+- Image Filtering with Machine Learning
+- Audio Feature Extraction
+- Machine Translation Model
+- Gender Classification Model
+- Create a 3D Video with Python and Machine Learning.
+- Named Entity Recognition
+- WhatsApp Group Chat Analysis
+- Translate Languages Using Python
+- Covid-19 Projects with Machine Learning
+- Deep Learning Projects with Machine Learning
+- Recommendation System Projects with Machine Learning
+- Sentiment Analysis Projects with Machine Learning
+- Classification Projects For Machine Learning
+- Regression Projects for Machine Learning
+- Chatbot Projects with Python
+- Machine Learning Projects on Future Prediction
