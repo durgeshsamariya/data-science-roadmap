@@ -206,6 +206,7 @@ This repository intendend to provide a complete **Data Science** learning path t
 - :tv: [Complete Python Pandas Data Science Tutorial](https://www.youtube.com/watch?v=vmEHCJofslg)
 - :newspaper: [101 Pandas Exercises for Data Analysis](https://www.machinelearningplus.com/python/101-pandas-exercises-python/)
 - :file_folder: [pandas_exercises](https://github.com/guipsamora/pandas_exercises)
+- :newspaper: [Pandas Complete Tutorial for Data Science](https://towardsai.net/p/data-science/pandas-complete-tutorial-for-data-science-in-2022)
 
 # Matplotlib
 
